@@ -9,7 +9,7 @@
 
 ### Main files
 
-- centosNginxHA.sh - main script, will use other files
+- centosNginxHA.sh - main script, will create image, install things, copy things...
 - nginx-entrypoint.sh - a shell script used to start the container
 - haproxy.cfg - very basic HAProxy configuration
 - index.tmpl - template from default nginx installation - just to 
