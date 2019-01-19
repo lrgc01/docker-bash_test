@@ -14,3 +14,4 @@
 - haproxy.cfg - very basic HAProxy configuration
 - index.tmpl - template from default nginx installation - just to 
         record the hostname on each start of the container
+- Dockerfile - just as an example. Not used except to match result images.
